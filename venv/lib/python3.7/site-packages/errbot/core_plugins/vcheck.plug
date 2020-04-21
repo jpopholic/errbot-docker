@@ -1,0 +1,10 @@
+[Core]
+Name = VersionChecker
+Module = vcheck
+Core = True
+
+[Documentation]
+Description = This is calling home to check if Errbot has a new version available
+
+[Python]
+Version = 2+

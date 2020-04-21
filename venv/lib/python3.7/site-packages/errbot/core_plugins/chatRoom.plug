@@ -1,0 +1,10 @@
+[Core]
+Name = ChatRoom
+Module = chatRoom
+Core = True
+
+[Documentation]
+Description = This is a basic implementation of a chatroom
+
+[Python]
+Version = 2+
